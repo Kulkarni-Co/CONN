@@ -4,7 +4,8 @@ Owners:
 * [Shlok Chetan Kulkarni](https://github.com/Sckarge)
 * [Chirag Jitendra Chandnani](https://github.com/chiragchandnani10)
 
-![Methodology_process](https://github.com/user-attachments/assets/5e114c03-bf7d-453d-9202-49062e753a1c)
+![Methodology](https://github.com/user-attachments/assets/71a1b0ef-a1f2-4d98-a7c9-d6a9801b049e)
+
 
 
 ##  Repository Structure
@@ -30,7 +31,7 @@ Rigorous urbanization leads to unprecedented climate change. Pune area in India 
 
 
 
-<img src="https://github.com/user-attachments/assets/648e2da6-83bb-4cae-8970-19eefebc3320" width="150" height="280">
+<img src="https://github.com/user-attachments/assets/648e2da6-83bb-4cae-8970-19eefebc3320" width="250" height="500">
 
 
 
