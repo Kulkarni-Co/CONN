@@ -20,9 +20,9 @@ Owners:
 
 - **`outputs/`** – Stores final results and visualizations
   - `Graphing.ipynb` – Graph the required Train and Test Graphs
-  - `Plot_Logs.ipynb` – Plots for ML Code
+  - `Plot_Logs.ipynb` – Plots for ML Codes
 
-- **`README.md`** – Project overview, installation guide, and documentation
+- **`README.md`** – Project overview, installation guide, and, documentation
 
 ---
 ### Abstract  
