@@ -32,7 +32,7 @@ Rigorous urbanization leads to unprecedented climate change. Pune area in India 
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/648e2da6-83bb-4cae-8970-19eefebc3320" width="700" height="700">
-</div>div>
+</div>
 
 
 
